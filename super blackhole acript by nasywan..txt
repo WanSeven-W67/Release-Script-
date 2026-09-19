@@ -1,2 +1,1 @@
 loadstring(game:HttpGet("https://user.uploads.dev/file/79e3baa5685ba66f6cd1a563d3cb68db.bin"))()
-okee 
